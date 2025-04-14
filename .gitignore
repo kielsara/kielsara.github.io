@@ -8,6 +8,8 @@ __pycache__/
 
 *~
 
+_site/
+
 .ipynb_checkpoints
 .DS_Store
 
