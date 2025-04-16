@@ -37,10 +37,11 @@ Bigfoot is most commonly associated with being a creature of the Pacific Northwe
 
 ## Search The Data & Methods
 
-<div class="left">
-{% include elements/button.html link="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv" text="The Data" %}
-</div>
-
-<div class="left">
-{% include elements/button.html link="https://github.com/kielsara/kielsara.github.io/blob/main/python_notebooks/HW5-smkiel2.ipynb" text="The Analysis" %}
+<div style="display: flex; gap: 1rem;">
+  <div>
+    {% include elements/button.html link="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv" text="The Data" %}
+  </div>
+  <div>
+    {% include elements/button.html link="https://github.com/kielsara/kielsara.github.io/blob/main/python_notebooks/HW5-smkiel2.ipynb" text="The Analysis" %}
+  </div>
 </div>
