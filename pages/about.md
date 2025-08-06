@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi! I am **{{ Sara Kiel }}**,<br>
+Hi! I am **{{ site.author.name }}**,<br>
 and I am currently a graduate student at The University of Illinois Urbana-Champaign studying Information Management within the School of Information Sciences.
 
 My undergraduate degree is in Anthropology with a Sociocultural and Linguistic focus, and I received an interdisciplinary certificate in Social Design due to a passion for human-centered design. I also have a small background in STEM, having studied chemistry and engineering for 1.5 years of undergrad. 
